@@ -2,3 +2,6 @@
 </br>  
 めいろ１  
 https://t-zouchi.github.io/games/maiz/  
+
+ジャンプしてよけるやつ  
+https://t-zouchi.github.io/games/jump/v1/  
